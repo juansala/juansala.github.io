@@ -1,3 +1,4 @@
 title: Juan Salazar
-description: test description
+description: My personal website for projects and other stuff
 theme: jekyll-theme-cayman
+include: ['_pages']
