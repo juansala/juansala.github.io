@@ -4,7 +4,7 @@ layout: default
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Me](https://juansala.github.io/media/Images/leeb-copy.jpg)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
