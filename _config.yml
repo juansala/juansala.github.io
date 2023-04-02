@@ -2,6 +2,7 @@ title: Juan Salazar
 description: My personal website for projects and other stuff
 theme: jekyll-theme-cayman
 include: ['_pages']
+home_url: https://juansala.github.io/
 projects_url: https://juansala.github.io/projects
 github_profile_url: https://github.com/juansala
 youtube_channel_url: https://www.youtube.com/channel/UCVG7EtCr7W0Ols7TKDskAtw

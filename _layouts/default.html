@@ -18,15 +18,11 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
         <a href="{{ site.home_url }}" class="btn">Home</a>
-      {% endif %}
-      {% if site.show_downloads %}
         <!-- <a href="{{ site.resume_url }}" class="btn">Resume</a> -->
         <a href="{{ site.projects_url }}" class="btn">Projects</a>
         <a href="{{ site.github_profile_url }}" class="btn">GitHub</a>
         <a href="{{ site.youtube_channel_url }}" class="btn">Youtube</a>
-      {% endif %}
     </header>
 
     <main id="content" class="main-content" role="main">
