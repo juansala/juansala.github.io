@@ -6,7 +6,7 @@ title: Juan Salazar
 # About Me
 
 
-<img align="right" src="https://juansala.github.io/media/Images/leeb-copy.jpg" alt="My Image">
+<img align="right" src="https://juansala.github.io/media/Images/leeb-copy.jpg" alt="Me" width="671" height="894">
 
 I graduated from MIT with a double S.B. in Aerospace Engineering (concentration in Autonomous Systems) and Electrical Engineering as well as an MEng in EECS. I am passionate about building the next generation of autonomous systems that will help answer questions about life beyond Earth. I am currently working as a Robotics Analyst for the ISS program at NASA Johnson Space Center.
 
