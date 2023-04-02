@@ -3,14 +3,22 @@ layout: default
 title: Juan Salazar
 ---
 
+<style>
+    .profile {
+    display: block;
+    float: right;
+    margin-left: 50px;
+    border-radius: 20px;
+    }
+</style>
+
 # About Me
 
+<p><img class="profile" align="right" src="https://juansala.github.io/media/Images/leeb-copy.jpg" alt="Me" style="width:45%" /></p>
 
-<img align="right" src="https://juansala.github.io/media/Images/leeb-copy.jpg" alt="Me" width="671" height="894">
+I graduated from MIT with a double S.B. in Aerospace Engineering (concentration in Autonomous Systems) and Electrical Engineering as well as an MEng in EECS. I am passionate about building the next generation of autonomous systems that will help answer questions about life beyond Earth. 
 
-I graduated from MIT with a double S.B. in Aerospace Engineering (concentration in Autonomous Systems) and Electrical Engineering as well as an MEng in EECS. I am passionate about building the next generation of autonomous systems that will help answer questions about life beyond Earth. I am currently working as a Robotics Analyst for the ISS program at NASA Johnson Space Center.
-
-<!-- ![Me](https://juansala.github.io/media/Images/leeb-copy.jpg) -->
+Currently, I work as a Robotics Analyst for the ISS program at NASA Johnson Space Center.
 
 # Latest Work
 
