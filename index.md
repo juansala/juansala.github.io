@@ -5,11 +5,16 @@ title: Juan Salazar
 
 # About Me
 
-![Me](https://juansala.github.io/media/Images/leeb-copy.jpg)
 
-I graduated from MIT with a double S.B. in Aerospace Engineering (with a concentration in Autonomous Systems) and Electrical Engineering as well as an MEng in EECS. I am passionate about building the next generation of autonomous systems that will help answer questions about life beyond Earth. I currently work on the hardware and software development of SoFi, an autonomous robotic fish that propels itself with a soft silicone elastomer tail.
+<img align="right" src="https://juansala.github.io/media/Images/leeb-copy.jpg" alt="My Image">
 
-Recently, my team and I implemented a basic leader-follower scheme with 2 SoFis via visual tracking. Check out this video of some of our earlier results below:
+I graduated from MIT with a double S.B. in Aerospace Engineering (concentration in Autonomous Systems) and Electrical Engineering as well as an MEng in EECS. I am passionate about building the next generation of autonomous systems that will help answer questions about life beyond Earth. I am currently working as a Robotics Analyst for the ISS program at NASA Johnson Space Center.
+
+<!-- ![Me](https://juansala.github.io/media/Images/leeb-copy.jpg) -->
+
+# Latest Work
+
+Recently, I worked on an autonomous visual-based leader-follower behavior for a robotic fish platform. Check out this video of some of our results below:
 
 <p align="center">
 <iframe 
