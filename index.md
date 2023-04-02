@@ -12,14 +12,14 @@ I graduated from MIT with a double S.B. in Aerospace Engineering (with a concent
 Recently, my team and I implemented a basic leader-follower scheme with 2 SoFis via visual tracking. Check out this video of some of our earlier results below:
 
 <p align="center">
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/watch?v=zDGuRk9I2oY"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
+<iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/zDGuRk9I2oY" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
 </iframe>
 </p>
 
