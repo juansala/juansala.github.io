@@ -11,6 +11,7 @@ I graduated from MIT with a double S.B. in Aerospace Engineering (with a concent
 
 Recently, my team and I implemented a basic leader-follower scheme with 2 SoFis via visual tracking. Check out this video of some of our earlier results below:
 
+<p align="center">
 <iframe
     width="640"
     height="480"
@@ -20,5 +21,6 @@ Recently, my team and I implemented a basic leader-follower scheme with 2 SoFis 
     allowfullscreen
 >
 </iframe>
+</p>
 
 <!-- [Link to another page](./another-page.html). -->
