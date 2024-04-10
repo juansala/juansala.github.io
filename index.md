@@ -27,7 +27,7 @@ As a robotics analyst, I assess kinematic feasibility of pre-decisional ISS robo
 <iframe 
     width="560" 
     height="315" 
-    src="https://youtu.be/SzIwTspK66E" 
+    src="https://www.youtube.com/embed/tUptC2nOB3I?si=2bxPhpAmcmF3bgG2" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
