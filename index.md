@@ -11,7 +11,7 @@ layout: default
     }
 </style>
 
-# About Me
+# About
 
 <p><img class="profile" align="right" src="https://juansala.github.io/media/Images/leeb-copy.jpg" alt="Me" style="width:45%" /></p>
 
@@ -35,7 +35,7 @@ As a robotics analyst, I assess kinematic feasibility of pre-decisional ISS robo
 </iframe>
 </p>
 
-For my MEng graduate research, I worked on an autonomous visual-based leader-follower behavior for a robotic fish platform. Check out my[IEEE publication](https://ieeexplore.ieee.org/document/9965882) and a short demo video below.
+For my MEng graduate research, I worked on an autonomous visual-based leader-follower behavior for a robotic fish platform. Check out my [IEEE publication](https://ieeexplore.ieee.org/document/9965882) and a short demo video below.
 
 <p align="center">
 <iframe 
