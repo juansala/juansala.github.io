@@ -21,7 +21,7 @@ Currently, I work as a Robotics Analyst for the ISS program at NASA Johnson Spac
 
 # Latest Work
 
-Recently, I worked on an autonomous visual-based leader-follower behavior for a robotic fish platform. Check out this video of some of our results below:
+For my graduate research (2022), I worked on an autonomous visual-based leader-follower behavior for a robotic fish platform. Check out this video of some of our results below:
 
 <p align="center">
 <iframe 
