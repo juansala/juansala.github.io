@@ -24,7 +24,7 @@ permalink: /publications/
 
 /* Style for publication authors */
 .publication-authors {
-  font-style: italic;
+  /* font-style: italic; */
 }
 
 /* Style for publication details */
@@ -77,12 +77,12 @@ permalink: /publications/
     </div>
     <div class="publication-details">
       <div class="publication-title">Multi-Robot Visual Control of Autonomous Soft Robotic Fish</div>
-      <div class="publication-authors">Juan Salazar, Levi Cai, Braden Cook, Daniela Rus</div>
-      <div class="publication-details">Conference Name, Pages XX-XX, Year</div>
+      <div class="publication-authors"><strong>Juan Salazar</strong>, Levi Cai, Braden Cook, Daniela Rus</div>
+      <div class="publication-details">IEEE OES AUV Symposium, 1-6, 2022</div>
       <!-- <div class="publication-abstract">
       </div> -->
       <div class="publication-link">
-        <a href="publication1.pdf" target="_blank">PDF</a> <!-- Link to the PDF file -->
+        <a href="https://juansala.github.io\media\Docs\IEEE_AUV_2022_SoFi_Final.pdf" target="_blank">paper</a>
       </div>
     </div>
   </li>
@@ -93,12 +93,12 @@ permalink: /publications/
     </div>
     <div class="publication-details">
       <div class="publication-title">Graph Grammar-Based Automatic Design for Heterogeneous Fleets of Underwater Robots</div>
-      <div class="publication-authors">Allan Zhao, Jie Xu, Juan Salazar, Wei Wang, Pingchuan Ma, Daniela Rus, and Wojciech Matusik</div>
-      <div class="publication-details">Conference Name, Pages XX-XX, Year</div>
+      <div class="publication-authors">Allan Zhao, Jie Xu, <strong>Juan Salazar</strong>, Wei Wang, Pingchuan Ma, Daniela Rus, and Wojciech Matusik</div>
+      <div class="publication-details">International Conference on Robotics and Automation (ICRA), 3143-3149, 2022</div>
       <!-- <div class="publication-abstract"> 
       </div> -->
       <div class="publication-link">
-        <a href="publication2.pdf" target="_blank">PDF</a> <!-- Link to the PDF file -->
+        <a href="https://juansala.github.io\media\Docs\Graph_Grammar-Based_Automatic_Design_for_Heterogeneous_Fleets_of_Underwater_Robots_ICRA22.pdf" target="_blank">paper</a> <!-- Link to the PDF file -->
       </div>
     </div>
   </li>

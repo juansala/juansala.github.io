@@ -23,35 +23,39 @@ permalink: /projects/
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #606c71
 }
+
+    .image-container img:hover {
+    opacity: 0.8; /* Adjust the opacity value for the hover effect */
+}
+
+    .image-container a {
+    text-decoration: none; /* Remove underline from the link */
+}
 </style>
 
 # Projects
 
-## Vision-based Autonomy for a Quadruped Robot
-
 <div class="image-container">
-    <p class="description">Developing a ROS2 software stack to perform control, localization, and mapping on the open-source <a href="https://github.com/stanfordroboticsclub/StanfordQuadruped">Stanford pupper</a> quadruped robot. <br><br>The goals of this project are to re-enforce my robot autonomy fundamentals and to further hone my C++ skills.</p>
+    <h2 id="vision-based-autonomy-for-a-quadruped-robot">Vision-based Autonomy for a Quadruped Robot<br>
+    <p class="description">Developing a ROS2 software stack to perform control, localization, and mapping on the open-source <a href="https://github.com/stanfordroboticsclub/StanfordQuadruped">Stanford pupper</a> quadruped robot. <br><br>The goals of this project are to re-enforce my robot autonomy fundamentals and to further hone my C++ skills.</p></h2>
     <img src="https://juansala.github.io/media/Images/pupper.jpg" alt="pupper">
 </div>
 
-## Leader-follower Coordination of Soft Robotic Fish
-
 <div class="image-container">
-    <p class="description">A vision-based coordination strategy for autonomous, untethered soft robotic fish that I worked on for my graduate research project. <br><br>Presented and <a href="https://ieeexplore.ieee.org/document/9965882">published</a> at the 2022 IEEE OES AUV Symposium.</p>
+    <h2 id="leader-follower-coordination-of-soft-robotic-fish">Leader-follower Coordination of Soft Robotic Fish<br>
+    <p class="description">A vision-based coordination strategy for autonomous, untethered soft robotic fish that I worked on for my graduate research project. <br><br>Presented and <a href="https://ieeexplore.ieee.org/document/9965882">published</a> at the 2022 IEEE OES AUV Symposium.</p></h2>
     <img src="https://juansala.github.io/media/Images/sofi_diagram.PNG" alt="fish_diagram">
 </div>
 
-## Hexapod Gazebo Simulation
-
 <div class="image-container">
-    <p class="description">A ROS/Gazebo simulation for a hexapod robot designed for locomotion over lunar terrain. <br><br>Developed to verify continually evolving system architecture for submission to NASA BIG Idea Challenge 2022.</p>
+    <h2 id="hexapod-gazebo-simulation">Hexapod Gazebo Simulation<br>
+    <p class="description">A ROS/Gazebo simulation for a hexapod robot designed for locomotion over lunar terrain. <br><br>Developed to verify continually evolving system architecture for submission to NASA BIG Idea Challenge 2022.</p></h2>
     <img src="https://juansala.github.io/media/Images/worms_hex_sim.png" alt="worms_hexapod">
 </div>
 
-## Ring Watch
-
 <div class="image-container">
-    <p class="description">A silly watch that tells you the time via a single RGB LED ...and fits on your ring finger! Based on the ATtiny85 and PCF8523 real time clock.</p>
+    <h2 id="ring-watch">Ring Watch<br>
+    <p class="description">A silly watch that tells you the time via a single RGB LED... and fits on your ring finger! Based on the ATtiny85 and PCF8523 real time clock.</p></H2>
     <img src="https://juansala.github.io/media/Images/ring_watch_topview.png" alt="ring_hexapod">
 </div>
 
