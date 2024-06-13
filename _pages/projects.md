@@ -57,13 +57,14 @@ permalink: /projects/
 # Projects (click the images to learn more!)
 
 <div class="image-container">
-    <h2 id="vision-based-autonomy-for-a-quadruped-robot">Vision-based Autonomy for a Quadruped Robot<br>
-    <p class="description">Developing a ROS2 software stack to perform control, localization, and mapping on the open-source <a href="https://github.com/stanfordroboticsclub/StanfordQuadruped">Stanford pupper</a> quadruped robot. <br><br>The goals of this project are to re-enforce my robot autonomy fundamentals and to further hone my C++ skills.</p></h2>
+    <h2 id="Zero-G Tumbling Target Capture via Robot Arm">Zero-G Tumbling Target Capture<br>
+    <p class="description">Motion planning and trajectory control for capture of tumbling objects in zero-G using the Drake toolbox.<br><br>Final project for <a href="https://manipulation.csail.mit.edu/index.html">Manipulation at MIT.</a> </p>
+    </h2>
     <div class="image-wrapper">
-        <!-- <a href="https://example.com"> -->
-        <img src="https://juansala.github.io/media/Images/pupper.jpg" alt="pupper">
+        <a href="https://juansala.github.io/projects/kuka">
+        <img src="https://juansala.github.io/media/Images/kuka_arm.png" alt="kuka">
         <div class="overlay"></div>
-        <!-- </a> -->
+        </a>
     </div>
 </div>
 
@@ -73,6 +74,17 @@ permalink: /projects/
     <div class="image-wrapper">
         <!-- <a href="https://example.com"> -->
         <img src="https://juansala.github.io/media/Images/sofi_diagram.PNG" alt="fish_diagram">
+        <div class="overlay"></div>
+        <!-- </a> -->
+    </div>
+</div>
+
+<div class="image-container">
+    <h2 id="vision-based-autonomy-for-a-quadruped-robot">Vision-based Autonomy for a Quadruped Robot<br>
+    <p class="description">Developing a ROS2 software stack to perform control, localization, and mapping on the open-source <a href="https://github.com/stanfordroboticsclub/StanfordQuadruped">Stanford pupper</a> quadruped robot. <br><br>The goals of this project are to re-enforce my robot autonomy fundamentals and to further hone my C++ skills.</p></h2>
+    <div class="image-wrapper">
+        <!-- <a href="https://example.com"> -->
+        <img src="https://juansala.github.io/media/Images/pupper.jpg" alt="pupper">
         <div class="overlay"></div>
         <!-- </a> -->
     </div>
