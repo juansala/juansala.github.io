@@ -15,7 +15,7 @@ layout: default
 
 <p><img class="profile" align="right" src="https://juansala.github.io/media/Images/leeb-copy.jpg" alt="Me" style="width:45%" /></p>
 
-I graduated from MIT with a double S.B. in Aerospace Engineering (concentration in Autonomous Systems) and Electrical Engineering as well as an MEng in EECS. I am passionate about building the next generation of autonomous systems that will help answer questions about life beyond Earth. 
+I graduated from MIT with a double S.B. in Aerospace Engineering (concentration in Autonomous Systems) and Electrical Engineering as well as an MEng in EECS. I am passionate about building the next generation of autonomous systems that will help answer questions about life beyond Earth.
 
 Currently, I work as a Robotics Analyst for the ISS program at NASA Johnson Space Center.
 
