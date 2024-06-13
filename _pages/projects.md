@@ -93,7 +93,7 @@ permalink: /projects/
     <h2 id="ring-watch">Ring Watch<br>
     <p class="description">A silly watch that tells you the time via a single RGB LED... and fits on your ring finger! Based on the ATtiny85 and PCF8523 real time clock.</p></H2>
     <div class="image-wrapper">
-        <a href="https://example.com">
+        <a href="https://juansala.github.io/projects/ring_watch">
         <img src="https://juansala.github.io/media/Images/ring_watch_topview.png" alt="ring_hexapod">
         <div class="overlay"></div>
         </a>
