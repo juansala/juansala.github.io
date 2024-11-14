@@ -7,6 +7,7 @@ layout: default
     display: block;
     float: right;
     margin-left: 50px;
+    margin-bottom: 50px;
     border-radius: 20px;
     }
 </style>
@@ -17,11 +18,11 @@ layout: default
 
 I graduated from MIT with a double S.B. in Aerospace Engineering (concentration in Autonomous Systems) and Electrical Engineering as well as an MEng in EECS. I am passionate about building the next generation of autonomous systems that will help answer questions about life beyond Earth.
 
-Currently, I work as a Robotics Analyst for the ISS program at NASA Johnson Space Center.
+Currently, I work as an Embedded Software Engineer at [Novium Designs](https://www.noviumdesigns.com/) in Houston, TX. My role has a focus on developing software for real-time in-space applications, but also allowed me to work on manipulation solutions for a 6-DOF robotic arm platform.
 
 # Latest Work
 
-As a robotics analyst, I assess kinematic feasibility of pre-decisional ISS robotic arm operations in support of future real-time ops planning. Below is an publicly-released [animation](https://ntrs.nasa.gov/citations/20230013248) produced from one of my assessments:
+In my previous role as an ISS robotics analyst, I assessed kinematic feasibility of pre-decisional robotic arm operations in support of future real-time ops planning. Below is an publicly-released [animation](https://ntrs.nasa.gov/citations/20230013248) produced from one of my assessments:
 
 <p align="center">
 <iframe 
